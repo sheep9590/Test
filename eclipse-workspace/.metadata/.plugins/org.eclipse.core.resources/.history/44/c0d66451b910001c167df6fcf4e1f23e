@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>  
+        <frameset rows="20%,80%" border="1">
+           <frame src="top.html" noresize scrolling="no" name="top"></frame>
+           <frameset cols="30%,70%" border="1">
+               <frame src="left.html" noresize scrolling="no" name="left"></frame>
+               <frame src="right.html" noresize scrolling="no" name="right"></frame>
+           </frameset>
+        </frameset>
+        <a href="top.html" target="right"></a>
+</html>

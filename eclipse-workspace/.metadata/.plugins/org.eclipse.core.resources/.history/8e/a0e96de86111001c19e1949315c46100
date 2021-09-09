@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+   <span> treemenu.html(Setion B)</span><br>
+   <script type="text/javascript">
+   function locationTest(){
+	   window.location.href="Introduction.html";
+   }
+   </script>
+   <input type="submit" onclick="locationTest()" value="login">
+   <a href="Introduction.html" target="right">作者的个人简介</a><br>
+</body>
+</html>

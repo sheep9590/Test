@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+<input type="submit" value="Login">
+<input type="submit" value="Register">
+</form>
+</body>
+</html>

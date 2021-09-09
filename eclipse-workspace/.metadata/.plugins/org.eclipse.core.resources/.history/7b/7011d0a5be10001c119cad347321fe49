@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+<a href="Login.html" target="left">Login</a><br>
+<a href="Register.html" target="left">Register</a>
+</body>
+</html>

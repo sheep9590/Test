@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table bgcolor="#0000FF">
+      <caption>高一学生成绩表</caption>
+    <tr>
+    <td>
+    姓名
+    </td>
+    </tr>
+</table>
+</body>
+</html>

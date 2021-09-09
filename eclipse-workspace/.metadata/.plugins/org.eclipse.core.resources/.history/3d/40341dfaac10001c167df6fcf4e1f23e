@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+<table  align="center"bgcolor="#008800" width="300" height="200" border="1">
+      <caption>高一学生成绩表</caption>
+    <tr align="center">
+       <td>姓名</td><td>语文</td>
+       <td align="center">数学</td><td align="center">英语</td>
+    </tr>
+    <tr>
+       <td align="center">张三</td><td align="center">95</td>
+       <td align="center">94</td><td align="center">96</td>
+    </tr>
+    <tr>
+        <td align="center">李四</td><td align="center">95</td>
+        <td align="center">94</td><td align="center">96</td>
+    </tr>
+    <tr>
+       <td align="center">王五</td><td align="center">95</td>
+       <td align="center">94</td><td align="center">96</td>
+    </tr>
+</table>
+</body>
+</html>

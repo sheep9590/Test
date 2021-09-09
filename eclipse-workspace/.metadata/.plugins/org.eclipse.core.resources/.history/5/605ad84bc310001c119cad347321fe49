@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form >
+<table>
+<caption>
+       <strong>New Menber</strong>
+       </caption>
+     <tr>
+     <td>ID:</td><td><input type="text"></td>
+     </tr>
+     <tr>
+     <td>Password:</td><td><input type="password"></td>
+     </tr>
+      <tr>
+     <td>Re-Pasword:</td><td><input type="password"></td></tr>
+      <tr>First Name:<input type="text"></tr>
+      <tr>Last Name:<input type="text"></tr>
+      <tr>Address:<input type="text"></tr>
+      <tr>City:<input type="text"></tr>
+      <tr>State:<select>
+     <option>(Select State)</option>
+     </select></tr>
+      <tr>Country:<input type="text"></tr>
+      <tr>Email Address:<input type="text"></tr>
+      <tr>Select interest:<input type="checkbox">Technology<input type="checkbox">Enterprise
+                     <input type="checkbox">Reserch<input type="checkbox">Government
+                     <input type="checkbox">People<input type="checkbox">Life Style
+                     <input type="checkbox">Opinion</tr>
+      <tr>Question:<select>
+     <option>(Select Question)</option>
+     </select></tr>
+      <tr>Answer:<input type="text"></tr>
+     </tr>
+     </table>
+     </form>
+</body>
+</html>

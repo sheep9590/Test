@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+  <script type="text/javascript">
+   function locationTest(){
+	   window.location.href="Login.html";
+   }
+   </script>
+   <form >
+   <input type="submit" onclick="locationTest()" value="login">
+   </form>
+</body>
+</html>

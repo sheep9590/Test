@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+   <form target="right">
+   <input type="submit"  onclick="location.href='Login.html'" value="login">
+   <input type="button" onclick="location.href='Register.html'" value="Register">
+   </form>
+   <form  name=register action="Register.html" target="right">
+   <input type="button"  value="Register">
+   </form>
+   <a href="Login.html" target="right">Login</a><br>
+   <a href="Register.html" target="right">Register</a>
+</body>
+</html>

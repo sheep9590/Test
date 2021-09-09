@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+<script type="text/javascript">
+            function select(){
+            	if(login.onclick)
+            		login.submit;
+            	else
+            		register.submit;
+            }
+</script>
+   <form name=login  action="Login.html" target="right">
+   <input type="submit"  onclick="select()" value="login">
+   </form>
+   <form  name=register action="Register.html" target="right">
+   <input type="button"  value="Register">
+   </form>
+   <a href="Login.html" target="right">Login</a><br>
+   <a href="Register.html" target="right">Register</a>
+</body>
+</html>

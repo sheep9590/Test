@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+  <script type="text/javascript">
+     function locationTest(){
+	   window.location.href="right.html";
+   }
+   </script>
+   <form   action="Login.html" target="right">
+   <input type="submit"  value="login">
+   </form>
+   <a href="Login.html" target="right">Login</a><br>
+   <a href="Register.html" target="right">Register</a>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="">
+<input type="submit" value="Login">
+<input type="submit" value="Register">
+</form>
+      Please Login<br>
+     <form>
+     Login:<input type="text"><br>
+     Password:<input type="password"><br>
+     <input type="submit" value="OK">
+     <input type="reset" value="Forget Password">
+     </form>
+</body>
+</html>

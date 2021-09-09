@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+New Menber
+     <form >
+     ID:<input type="text"><br>
+     Password:<input type="password"><br>
+     Re-Pasword:<input type="text"><br>
+     First Name:<input type="password"><br>
+     Last Name:<input type="text"><br>
+     Address:<input type="password"><br>
+     City:<input type="text"><br>
+     State:<input type="password"><br>
+     Country:<input type="text"><br>
+     Email Address:<input type="password"><br>
+     Question:<input type="text"><br>
+     Answer:<input type="password"><br>
+     </form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body>
+<span >top.html</span>(Section A)<br>
+  <script type="text/javascript">
+   function locationTest(){
+	   window.location.href="Login.html";
+   }
+   </script>
+   <a href="Login.html" onclick="locationTest()" target="right"></a><br>
+   <a href="Register.html" target="right">Register</a>
+</body>
+</html>

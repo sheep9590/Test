@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+main.html(Section C)
+ function replace(){
+	   window.location.replace="Login.html";
+   }
+</body>
+</html>

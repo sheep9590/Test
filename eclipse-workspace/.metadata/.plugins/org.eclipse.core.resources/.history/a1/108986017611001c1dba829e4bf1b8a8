@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+main.html(Section C)
+<script type="text/javascript">
+ function location(){
+	   window.location.href="Login.html";
+   }
+   </script>
+</body>
+</html>
